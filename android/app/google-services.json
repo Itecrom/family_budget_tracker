@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554352660421",
+    "project_id": "mhone-family-budget",
+    "storage_bucket": "mhone-family-budget.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554352660421:android:7951a14127318e2ecb45ac",
+        "android_client_info": {
+          "package_name": "com.itecicteslutions.mhonefamilybudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554352660421-45d4ottlnbkasfl4s25qsaem4afsf2pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjZN1spLXMNucR1RiuVI3AopRGyU1gs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554352660421-45d4ottlnbkasfl4s25qsaem4afsf2pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

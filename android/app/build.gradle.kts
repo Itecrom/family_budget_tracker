@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.family_budget_tracker"
+    namespace = "com.itecicteslutions.mhonefamilybudget"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
